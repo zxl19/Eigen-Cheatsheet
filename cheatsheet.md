@@ -299,3 +299,7 @@ eig.eigenvalues();                // diag(val)
 eig.eigenvectors();               // vec
 // For self-adjoint matrices use SelfAdjointEigenSolver<>
 ```
+
+## 参考
+
+1. [Eigen short ASCII reference](http://eigen.tuxfamily.org/dox-devel/AsciiQuickReference.txt)

@@ -1,4 +1,4 @@
-# Eigen_Cheatsheet
+# Eigen-Cheatsheet
 
 A cheatsheet of Eigen, the C++ linear algebra library. [[PDF](./cheatsheet.pdf)]
 
